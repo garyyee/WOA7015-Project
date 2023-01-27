@@ -27,4 +27,10 @@ To investigate the feasibility of estimating heart rate in neonates using respir
 2. Heart Rate Monitoring in Newborn Babies: A Systematic Review
 3. Wearable technology for baby monitoring: a review
 4. EEG, behavioural and physiological recordings following a painful procedure in human neonates
-  </p>
+
+## Conclusions
+1.  We constructed a high-precision machine learning model to predict neonatal heart rate by characterizing the relationship between respiratory signals and the heart rate of newborns.
+2. By comparing with the reference heart rate from ECG, our method has a low mean absolute error and a good correlation coefficient score with the reference heart rate.
+3. This method may be a valuable non-invasive alternative method for measuring neonatal heart rate.
+4. More sample data are needed to increase the generalization ability of the model.
+
