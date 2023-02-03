@@ -23,10 +23,10 @@ Heart and respiratory rates are crucial clinical indicators in monitoring a pers
 To investigate the feasibility of estimating heart rate in neonates using respiratory signals, as a non-intrusive alternative to ECG and pulse oximetry.
 
 ## Literature Review
-1. Non-invasive sensor methods used in monitoring newborn babies after birth, a clinical perspective 
-2. Heart Rate Monitoring in Newborn Babies: A Systematic Review
-3. Wearable technology for baby monitoring: a review
-4. EEG, behavioural and physiological recordings following a painful procedure in human neonates
+1. Non-invasive sensor methods used in monitoring newborn babies after birth, a clinical perspective.
+2. Heart Rate Monitoring in Newborn Babies: A Systematic Review.
+3. Wearable technology for baby monitoring: a review.
+4. EEG, behavioural and physiological recordings following a painful procedure in human neonates.
 
 ## Conclusions
 1.  We constructed a high-precision machine learning model to predict neonatal heart rate by characterizing the relationship between respiratory signals and the heart rate of newborns.
