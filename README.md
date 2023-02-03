@@ -34,3 +34,5 @@ To investigate the feasibility of estimating heart rate in neonates using respir
 3. This method may be a valuable non-invasive alternative method for measuring neonatal heart rate.
 4. More sample data are needed to increase the generalization ability of the model.
 
+## Model Result
+<br><img src="picture/ModelResult.png" width="300">
