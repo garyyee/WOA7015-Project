@@ -35,4 +35,5 @@ To investigate the feasibility of estimating heart rate in neonates using respir
 4. More sample data are needed to increase the generalization ability of the model.
 
 ## Model Result
-<br><img src="picture/Model Result.png" width="300">
+<p align="center">
+<br><img src="picture/Model Result.png">
